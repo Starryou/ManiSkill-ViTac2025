@@ -10,7 +10,7 @@ env:
   peg_theta_max_offset_deg: 10.0
   peg_x_max_offset_mm: 5.0
   peg_y_max_offset_mm: 5.0
-  no_render: False
+  no_render: True
   insertion_depth_mm: 1.0 
   # V2 unique parameters
   peg_dist_z_mm: 6.0
